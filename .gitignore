@@ -1,0 +1,133 @@
+# Arquivos de configuração do VSCode
+.vscode/
+
+# Pastas de saída da compilação
+bin/
+obj/
+
+# Arquivos de depuração
+*.pdb
+*.cache
+*.[Cc]ache
+*.[Oo]bj
+*.[Ll]og
+*.[Dd]ll
+*.[Ee]xe
+*.[Ss]uo
+*.[Pp]db
+*.[Bb]ak
+
+# Outros arquivos e pastas
+*.ncrunch*
+*.sln.docstates
+*.user
+*.userprefs
+*.usersettings
+*.*proj.user
+*.*.swp
+*.*.swo
+*.*.slnx.sqlite
+*.DS_Store
+*.psess
+*.vsp
+*.vspx
+*stylecop.*
+*.dotCover
+_ReSharper*/
+_TeamCity*
+*.dbmdl
+*.*r
+Ankh.NoLoad
+BuildResults*/
+
+# Arquivos de pacotes NuGet
+packages/
+
+# Pasta de artefatos
+artifacts/
+
+# Logs
+logs/
+*.log
+log/
+
+# Pastas de ferramentas
+.tools/
+node_modules/
+bower_components/
+
+# Arquivos gerados durante a execução
+TestResult.xml
+*.coverage
+*.coveragexml
+*.tmp
+*.tmp_proj
+*.LoadTestDatabase
+*.rdl.data
+*.cache
+*.swp
+*.swo
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Ferramentas de análise de código
+*.pidb
+*.svclog
+*.scc
+
+# Arquivos do Windows OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos do MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos de imagem de disco do MacOS
+*.dmg
+*.iso
+
+# Miniaturas
+._*
+
+# Arquivos de cache de ícones
+.Icon?
+
+# Arquivos do perfil de acesso à rede do MacOS
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
